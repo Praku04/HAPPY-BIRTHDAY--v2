@@ -582,10 +582,10 @@ body {
     width: 50%;
 }
 .content__letter .right .love__img{
-    opacity: 0;
+    opacity: -100;
     position: absolute;
     right: 20px;
-    top: -100px;
+    top: -75px;
 }
 .love__img.animationOp{
     animation: opacityHeart 1s 1s forwards;
